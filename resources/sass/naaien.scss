@@ -1,0 +1,36 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+//@import 'settings/variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+// MAATWERK
+
+// Basics
+// ------
+@import 'settings/laravel-variables';
+//@import 'settings/project-variables';
+
+
+// Components
+// ----------
+//@import 'components/button';
+@import 'components/footer';
+@import 'components/header';
+
+// Modals
+// ------
+//@import 'modals/cart';
+
+// Objects
+// ------
+@import 'objects/layout';
+
+// Pages and page partials
+// -----------------------
+
+/*@import 'pages/footer';*/
